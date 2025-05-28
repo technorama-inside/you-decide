@@ -1,2 +1,2 @@
-# you-decide
-Exhibition on decisions and how to save the world
+# System
+Construction system with elements and connectors
