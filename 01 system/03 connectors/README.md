@@ -4,4 +4,4 @@ main connector.stp [Bambu Lab X1](https://eu.store.bambulab.com/de/products/pla-
 
 INOX Screw M6 x 35 [Bossard](https://www.bossard.com/eshop/ch-de/schrauben/schrauben-mit-innenantrieb/senkschrauben-mit-innensechskant-ohne-schaft/p/2104/)
 
-INOX Screw M6 x 35 [Rampa](https://www.bossard.com/eshop/ch-de/schrauben/schrauben-mit-innenantrieb/senkschrauben-mit-innensechskant-ohne-schaft/p/2104/))
+INOX Screw M6 x 35 [Rampa](https://www.bossard.com/eshop/ch-de/schrauben/schrauben-mit-innenantrieb/senkschrauben-mit-innensechskant-ohne-schaft/p/2104/)
