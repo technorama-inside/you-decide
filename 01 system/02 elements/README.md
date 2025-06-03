@@ -15,4 +15,4 @@ drilling jig plate system.stp [Bambu Lab X1](https://eu.store.bambulab.com/de/pr
 
 Bottle Crates
 
-12 x 1,0 l Glassbottle / 400 x300 x 384.5 mm [Stöckli 1210-74.05 Bottle Crate](https://www.gebinde-technologie.ch/index.cfm?tem=1&spr=1&hpn=1&sbn=1&ssn=9)
+12 x 1,0 l glass bottle / 400 x300 x 384.5 mm [Stöckli 1210-74.05 Bottle Crate](https://www.gebinde-technologie.ch/index.cfm?tem=1&spr=1&hpn=1&sbn=1&ssn=9)
