@@ -1,4 +1,4 @@
-# Hardware: Do Not Press
+# Parts: Do Not Press
 
 
 1 x [Raspberry Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/)
