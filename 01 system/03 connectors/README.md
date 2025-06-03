@@ -1,4 +1,3 @@
 # Connectors / Plate System
 
-main connector.stp [Bambu Lab X1](https://eu.store.bambulab.com/de/products/pla-cf?p=W3sicHJvcGVydHlLZXkiOiJGYXJiZSIsInByb3BlcnR5VmFsdWUiOiJNYXRjaGEtR3LDvG4gKDE0NTAwKSJ9LHsicHJvcGVydHlLZXkiOiJUeXAiLCJwcm9wZXJ0eVZhbHVlIjoiIn0seyJwcm9wZXJ0eUtleSI6Ikdyw7bDn2UiLCJwcm9wZXJ0eVZhbHVlIjoiMSBrZyJ9XQ%3D%3D
-)
+main connector.stp [Bambu Lab X1](https://eu.store.bambulab.com/de/products/pla-cf?id=43944001994971)
