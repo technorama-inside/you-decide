@@ -10,3 +10,9 @@ drilling jig plate system.stp [Bambu Lab X1](https://eu.store.bambulab.com/de/pr
 )
 
 2 x drill bushing 7mm [DIN 172 - A 7 x 20](https://www.maedler.de/Article/62210720)
+
+# Elements: Crate System
+
+Bottle Crates
+
+Stöckli 1210-74.05 Bottle Crate [Plywood Sperrapin, French maritime pine](https://www.gebinde-technologie.ch/index.cfm?tem=1&spr=1&hpn=1&sbn=1&ssn=9)
