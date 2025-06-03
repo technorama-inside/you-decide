@@ -1,5 +1,2 @@
 # Documentation
 
-Grundraster
-
-Isometrie System ...
