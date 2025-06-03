@@ -13,7 +13,7 @@ drilling jig plate system.stp [Bambu Lab X1](https://eu.store.bambulab.com/de/pr
 
 _
 
-System expansions [ITEM D30](https://www.item24.com/de-de/search/?q=D30&_gl=1*12jenbg*_gcl_aw*R0NMLjE3NDQxMTI0OTcuRUFJYUlRb2JDaE1JNS1Ud3BhM0lqQU1WczFOQkFoMHVnd3F0RUFBWUFTQUFFZ0t6elBEX0J3RQ..*_gcl_au*MjAxNzQwMjU5OS4xNzQ0MTEyNDg0*_ga*NzcwNTUyNDI2LjE3MzM5MzI5ODQ.*_ga_L5MYWBK2L4*czE3NDg5NDQzMTUkbzIkZzEkdDE3NDg5NDQ2NDEkajM1JGwwJGgw)
+System expansions [ITEM D30](https://www.item24.com/de-de/rohr-d30-natur-62856)
 
 # Elements: Crate System
 
