@@ -8,7 +8,5 @@ Plywood
 
 Drilling Jig
 
-drilling jig plate system.stp
-
-
-https://eu.store.bambulab.com/de/products/pla-cf?p=W3sicHJvcGVydHlLZXkiOiJGYXJiZSIsInByb3BlcnR5VmFsdWUiOiJNYXRjaGEtR3LDvG4gKDE0NTAwKSJ9LHsicHJvcGVydHlLZXkiOiJUeXAiLCJwcm9wZXJ0eVZhbHVlIjoiIn0seyJwcm9wZXJ0eUtleSI6Ikdyw7bDn2UiLCJwcm9wZXJ0eVZhbHVlIjoiMSBrZyJ9XQ%3D%3D
+drilling jig plate system.stp [Bambu Lab X1](https://eu.store.bambulab.com/de/products/pla-cf?p=W3sicHJvcGVydHlLZXkiOiJGYXJiZSIsInByb3BlcnR5VmFsdWUiOiJNYXRjaGEtR3LDvG4gKDE0NTAwKSJ9LHsicHJvcGVydHlLZXkiOiJUeXAiLCJwcm9wZXJ0eVZhbHVlIjoiIn0seyJwcm9wZXJ0eUtleSI6Ikdyw7bDn2UiLCJwcm9wZXJ0eVZhbHVlIjoiMSBrZyJ9XQ%3D%3D
+)
