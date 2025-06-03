@@ -1,6 +1,4 @@
-# Elements
-
-# Hardware: Plate System
+# Elements: Plate System
 
 Plywood
 
